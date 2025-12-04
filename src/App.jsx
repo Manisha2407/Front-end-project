@@ -6,7 +6,6 @@ import Home from "./components/Home";
 import Mansi from "./components/Mansi";
 import Calender from "./components/Calender";
 import Contact from "./components/Contact";
-import notes from "./components/notes";
 import Notes from "./components/notes";
 // FIXED
 
